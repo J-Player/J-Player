@@ -39,15 +39,15 @@ Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
 </abbr>
 
-<abbr title="JavaScript" style="text-decoration: none;">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-</a>
-</abbr>
-
 <abbr title="NodeJS" style="text-decoration: none;">
 <a href="https://nodejs.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
+</a>
+</abbr>
+
+<abbr title="JavaScript" style="text-decoration: none;">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 </a>
 </abbr>
 
