@@ -2,6 +2,8 @@
 
 Olá! Tenho 25 anos, moro no Rio de Janeiro/RJ, sou um Desenvolvedor Backend, mas também gosto de me aventura pelo mundo do Frontend 😏.
 
+🎓Formação? Recém-formado em Ciência da Computação 🥳
+
 Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></a> 😍 e <a href="https://spring.io" target="_blank"><b>Spring</b></a> (Framework Java) 🥰.
 
 ### Linguagens, Frameworks e Ferramentas:
