@@ -47,12 +47,6 @@ Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></
 </a>
 </abbr>
 
-<abbr title="VueJS" style="text-decoration: none;">
-<a href="https://vuejs.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="40"/>
-</a>
-</abbr>
-
 <abbr title="NodeJS" style="text-decoration: none;">
 <a href="https://nodejs.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
