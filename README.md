@@ -21,12 +21,6 @@ Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></
 </a>
 </abbr>
 
-<abbr title="Gradle" style="text-decoration: none;">
-<a href="https://gradle.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" width="40"/>
-</a>
-</abbr>
-
 <abbr title="Python" style="text-decoration: none;">
 <a href="https://www.python.org" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
