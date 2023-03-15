@@ -1,6 +1,6 @@
 ## João Pedro 🇧🇷
 
-Olá! Tenho 25 anos, moro no Rio de Janeiro/RJ, sou um Desenvolvedor Backend, mas também gosto de me aventura pelo mundo do Frontend 😏.
+Olá! Tenho 26 anos, moro no Rio de Janeiro/RJ, sou um Desenvolvedor Backend, mas também gosto de me aventura pelo mundo do Frontend 😏.
 
 🎓Formação? Recém-formado em Ciência da Computação 🥳
 
