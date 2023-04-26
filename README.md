@@ -1,12 +1,11 @@
-## João Pedro 🇧🇷
+## About me
+Hi! My name is João Pedro and I'm 26 years old, I live in Rio de Janeiro/RJ - Brazil, I'm a Backend Developer, but I also like to venture into the Frontend world 😏.
 
-Olá! Tenho 26 anos, moro no Rio de Janeiro/RJ, sou um Desenvolvedor Backend, mas também gosto de me aventura pelo mundo do Frontend 😏.
+🎓 Academic training? Fresh graduate in Computer Science (2022) 🥳
 
-🎓Formação? Recém-formado em Ciência da Computação 🥳
+Favorite language? <a href="https://www.java.com" target="_blank"><b>Java</b></a> 😍 and <a href="https://spring.io" target="_blank"><b>Spring</b></a> (Java Framework) 🥰.
 
-Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></a> 😍 e <a href="https://spring.io" target="_blank"><b>Spring</b></a> (Framework Java) 🥰.
-
-### Linguagens, Frameworks e Ferramentas:
+### Tech Stack:
 <div>
 
 <abbr title="Java" style="text-decoration: none;">
@@ -20,11 +19,6 @@ Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
 </a>
 </abbr>
-
-<abbr title="Python" style="text-decoration: none;">
-<a href="https://www.python.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
-</a>
 
 </abbr>
 <abbr title="HTML5" style="text-decoration: none;">
@@ -60,7 +54,7 @@ Linguagem favorita? <a href="https://www.java.com" target="_blank"><b>Java</b></
 </abbr>
 </div>
 
-### Contatos:
+### Socials:
 
 <div>
 <a href="https://www.linkedin.com/in/joão-pedro-rodrigues-diniz-339a1a180/" target="_blank">
