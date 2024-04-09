@@ -1,5 +1,5 @@
 ## About me
-Hi! My name is João Pedro and I'm 26 years old, I live in Rio de Janeiro/RJ - Brazil, I'm a Backend Developer, but I also like to venture into the Frontend world 😏.
+Hi! My name is João Pedro, I live in Rio de Janeiro/RJ - Brazil, I'm a Backend Developer, but I also like to venture into the Frontend world 😏.
 
 🎓 Academic training? Fresh graduate in Computer Science (2022) 🥳
 
