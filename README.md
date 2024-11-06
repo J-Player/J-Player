@@ -1,63 +1,58 @@
-## About me
-Hi! My name is João Pedro, I live in Rio de Janeiro/RJ - Brazil, I'm a Backend Developer, but I also like to venture into the Frontend world 😏.
+<h2 align="left">About me</h2>
 
-🎓 Academic training? Fresh graduate in Computer Science (2022) 🥳
+###
 
-Favorite language? <a href="https://www.java.com" target="_blank"><b>Java</b></a> 😍 and <a href="https://spring.io" target="_blank"><b>Spring</b></a> (Java Framework) 🥰.
+<p align="left">My name is João Pedro and I'm a Fullstack Developer, from RJ - Brazil.</p>
 
-### Tech Stack:
-<div>
+###
 
-<abbr title="Java" style="text-decoration: none;">
-<a href="https://www.java.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
-</a>
-</abbr>
+<p align="left">✨ Developing things since 2017<br>📚 Learning something new every day<br>🎲 Hobbies: Programming and games<br>🎓Graduated in Computer Science</p>
 
-<abbr title="Spring" style="text-decoration: none;">
-<a href="https://spring.io" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="40"/>
-</a>
-</abbr>
+###
 
-</abbr>
-<abbr title="HTML5" style="text-decoration: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-</abbr>
+<h2 align="left">Tech Stack</h2>
 
-<abbr title="CSS3" style="text-decoration: none;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-</abbr>
+###
 
-<abbr title="JavaScript" style="text-decoration: none;">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-</a>
-</abbr>
-
-<abbr title="NodeJS" style="text-decoration: none;">
-<a href="https://nodejs.org" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
-</a>
-</abbr>
-
-<abbr title="Oracle" style="text-decoration: none;">
-<a href="https://www.oracle.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40", width="40"/>
-</a>
-</abbr>
-
-<abbr title="MySQL" style="text-decoration: none;">
-<a href="https://www.mysql.com" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40", width="40"/>
-</a>
-</abbr>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
 </div>
 
-### Socials:
+###
 
-<div>
-<a href="https://www.linkedin.com/in/joão-pedro-rodrigues-diniz-339a1a180/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40", width="40"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j-player&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-player&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joão-pedro-rodrigues-diniz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
